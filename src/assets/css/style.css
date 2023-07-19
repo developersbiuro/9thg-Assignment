@@ -1,0 +1,21 @@
+.appc{
+    color: white;
+}
+.tr{
+    margin-top: 50px;
+}
+
+.hd{
+    font-size: 80px;
+    text-align: left;
+}
+.phd{
+    font-size: x-large;
+    text-align: left;
+}
+.bt{
+    background-color: blueviolet;
+    color: white;
+    box-shadow: blueviolet;
+  
+}
