@@ -1,14 +1,11 @@
 import React from 'react'
-import badgeimg from "../../assets/img/Avatar Placeholder.png"
+import hlimg from "../../assets/img/NFT Highlight.png"
 
 
 export default function Highlight() {
     return (
-        <div className='container-fluid hl'>
-
-            <div className='col-lg-8 '><span class="hlm badge bg-secondary"> <img src={badgeimg} />Shroomie</span></div>
-            <div className='col-lg-4 '></div>
-
+        <div className='container-fluid '>
+            <img src={hlimg} className='hl' />
 
 
         </div>
