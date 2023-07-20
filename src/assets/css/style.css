@@ -21,7 +21,7 @@
   
 }
 .hdcd{
-    width: 25rem;
+    width: 22rem;
     color: white;
     background-color: rgb(85, 85, 85);
     
@@ -29,6 +29,7 @@
 .cdh{
     text-align: left;
     color: white;
+
 }
 .trhd{
     text-align: left;
@@ -36,6 +37,7 @@
 }
 .cdbt{
     color: white;
+    width: 80px;
     font:bolder;
     height: 80px;
     background-color: blueviolet;
@@ -46,7 +48,7 @@
     
 }
 .simg{
-    width: 80px;
+    width: 90px;
 }
 .trcard{
     margin-top: 30px;
@@ -59,10 +61,27 @@
 }
 .tpcd{
     width: 14rem;
-    margin-left: 20px;
+    margin-left: 30px;
     background-color: rgb(63, 63, 63);
+    margin-top: 70px;
     color: white
 }
     
+.dscd{
+    width: 20rem;
+    color: white;
+    background-color: rgba(63, 63, 63, 0.856);
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.ps{
+    font:message-box;
+}
 
+.pr{
+    color: grey;
+}
+.bs{
+    font:message-box;
+}
 

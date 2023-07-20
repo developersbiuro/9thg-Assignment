@@ -2,14 +2,16 @@ import React from 'react'
 
 export default function TopCard(props) {
     return (
-        <div class="card text-center mb-3 col-lg-3 tpcd " >
-            <div class="card-body">
+        <div className='col-lg-3 col-sm-6'>
+            <div className="card text-center mb-3  tpcd " >
+            <div className="card-body">
                 <img src={props.src} />
-                <h2 class="card-title">{props.title} </h2>
+                <h3 className="card-title">{props.title} </h3>
                 <p>Total Sales: 34.53 ETH</p>
 
 
             </div>
+        </div>
         </div>
     )
 }

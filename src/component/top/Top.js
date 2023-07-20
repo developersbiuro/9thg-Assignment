@@ -28,7 +28,7 @@ export default function Top() {
                 </div>
 
             </div>
-            <div className='row'>
+            <div className='row d-flex justify-content-around"'>
                 <TopCard src={card1img} title="Keepitreal" />
                 <TopCard src={card2img} title="DigiLab" />
                 <TopCard src={card3img} title="GravityOne" />
@@ -37,10 +37,10 @@ export default function Top() {
                 <TopCard src={card6img} title="Mr Fox" />
                 <TopCard src={card7img} title="Shroomie" />
                 <TopCard src={card8img} title="Robotica" />
-                <TopCard src={card9img} title="Keepitreal" />
-                <TopCard src={card10img} title="Keepitreal" />
-                <TopCard src={card11img} title="Keepitreal" />
-                <TopCard src={card12img} title="Keepitreal" />
+                <TopCard src={card9img} title="RustyRobot" />
+                <TopCard src={card10img} title="Animakids" />
+                <TopCard src={card11img} title="Gotku" />
+                <TopCard src={card12img} title="Ghiblier" />
 
             </div>
 
