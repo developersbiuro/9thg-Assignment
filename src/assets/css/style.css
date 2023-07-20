@@ -2,7 +2,7 @@
     color: white;
 }
 .tr{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .hd{
@@ -18,4 +18,33 @@
     color: white;
     box-shadow: blueviolet;
   
+}
+.hdcd{
+    width: 25rem;
+    color: white;
+    background-color: rgb(85, 85, 85);
+    
+}
+.cdh{
+    text-align: left;
+    color: white;
+}
+.trhd{
+    text-align: left;
+
+}
+.cdbt{
+    color: white;
+    font:bolder;
+    height: 80px;
+    background-color: blueviolet;
+}
+.con{
+    background-color: rgba(43,43,43,255)
+}
+.simg{
+    width: 80px;
+}
+.trcard{
+    margin-top: 30px;
 }
