@@ -8,7 +8,7 @@ import "./assets/css/style.css"
 
 function App() {
   return (
-    <div className="App appc bg-dark" id='zppc' >
+    <div className="App appc bg-dark"  >
       <HomePage />
     </div>
   );
