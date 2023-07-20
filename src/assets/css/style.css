@@ -85,3 +85,17 @@
     font:message-box;
 }
 
+.hdb{
+    width: 120px;
+}
+.sp{
+    font-size:20px;
+}
+
+.hl{
+    background-image: url(../img/NFT\ Highlight.png);
+    background-size: auto;
+}
+.hlm{
+    margin-top: 200px;
+}

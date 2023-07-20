@@ -12,7 +12,8 @@ import iconimg8 from "../../assets/img/i8.png"
 
 export default function browse() {
   return (
-    <div className='trhd tr row'>
+    <div className='container'>
+      <div className='trhd tr row'>
         <h1 className='trhd'>Browse Categories</h1>
         <BrowseCard src={iconimg1} title="Art" />
         <BrowseCard src={iconimg2} title="Collection" />
@@ -23,6 +24,7 @@ export default function browse() {
         <BrowseCard src={iconimg7} title="Sports" />
         <BrowseCard src={iconimg8} title="Virtual Worlds" />
 
+    </div>
     </div>
   )
 }
