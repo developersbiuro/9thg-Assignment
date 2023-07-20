@@ -21,8 +21,8 @@ export default function Trend() {
       <div className='row con'>
 
         <TrendCard src={a1img} asrc={a2img} bsrc={a3img} title="DSGN Animals" logosrc={logo} para="MrFox" />
-        <TrendCard src={b1img} asrc={b2img} bsrc={b3img} title="DSGN Animals" logosrc={logo} para="MrFox" />
-        <TrendCard src={c1img} asrc={c2img} bsrc={c3img} title="DSGN Animals" logosrc={logo} para="MrFox" />
+        <TrendCard src={b1img} asrc={b2img} bsrc={b3img} title="Magic Mashrooms" logosrc={logo} para="Shroomie" />
+        <TrendCard src={c1img} asrc={c2img} bsrc={c3img} title="Disco Machine" logosrc={logo} para="BeKind2Robots" />
 
       </div>
 
