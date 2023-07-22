@@ -4,6 +4,8 @@ import logo1 from "../../assets/img/DiscordLogo.png"
 import logo3 from "../../assets/img/TwitterLogo.png"
 import logo2 from "../../assets/img/YoutubeLogo.png"
 import logo4 from "../../assets/img/InstagramLogo.png"
+import div from "../../assets/img/Divider.png"
+import evimg from "../../assets/img/EnvelopeSimple.png"
 
 
 
@@ -21,8 +23,8 @@ export default function Footer() {
                         <a className='logo' href=''> <img src={logo2} /></a>
                         <a className='logo' href=''> <img src={logo3} /></a>
                         <a className='logo' href='' target='blank'> <img src={logo4} /></a>
-                        
-                    
+
+
                     </div>
 
                     <div className='col-lg-3 col-sm-12 ftm'>
@@ -33,6 +35,15 @@ export default function Footer() {
                     </div>
 
                     <div className='col-lg-5 col-sm-12 ftm'>
+                        <h3 className='fth'>Join our weekly digest</h3>
+                        <h5 className='ftt mar'>Get exclusive promotions & updates straight to your inbox.</h5>
+                        <div class="form-floating col-lg-5 col-sm-12 trcard em">
+                            <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
+                            <label htmlFor="floatingInput">Enter your email here</label>
+                        </div>
+                        <div className='col-lg-5 col-sm-12 trcard'>
+                            <button type="button" className="btn btn-primary btn-lg bt jbt"><img src={evimg} /> Subscribe</button>
+                        </div>
 
                     </div>
                     <img src={div} />
