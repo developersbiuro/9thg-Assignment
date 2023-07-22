@@ -1,98 +1,139 @@
-.appc{
+.appc {
     color: white;
-    
+
 }
-.tr{
+
+.tr {
     margin-top: 100px;
 }
 
-.hd{
+.hd {
     font-size: 80px;
     text-align: left;
 }
-.phd{
+
+.phd {
     font-size: x-large;
     text-align: left;
 }
-.bt{
+
+.bt {
     background-color: blueviolet;
     color: white;
     box-shadow: blueviolet;
-  
+
 }
-.hdcd{
+
+.hdcd {
     width: 22rem;
     color: white;
     background-color: rgb(85, 85, 85);
-    
+
 }
-.cdh{
+
+.cdh {
     text-align: left;
     color: white;
 
 }
-.trhd{
+
+.trhd {
     text-align: left;
 
 }
-.cdbt{
+
+.cdbt {
     color: white;
     width: 80px;
-    font:bolder;
+    font: bolder;
     height: 80px;
     background-color: blueviolet;
 }
-.con{
-    background-color: rgba(43,43,43,255);
+
+.con {
+    background-color: rgba(43, 43, 43, 255);
     color: white;
-    
+
 }
-.simg{
+
+.simg {
     width: 90px;
 }
-.trcard{
+
+.trcard {
     margin-top: 30px;
 }
-.topbt{
+
+.topbt {
     margin-top: 20px;
     color: white;
-    
+
     border-color: blueviolet;
 }
-.tpcd{
+
+.tpcd {
     width: 14rem;
     margin-left: 30px;
     background-color: rgb(63, 63, 63);
     margin-top: 70px;
     color: white
 }
-    
-.dscd{
+
+.dscd {
     width: 20rem;
     color: white;
     background-color: rgba(63, 63, 63, 0.856);
     margin-top: 70px;
     margin-left: 30px;
 }
-.ps{
-    font:message-box;
+
+.ps {
+    font: message-box;
 }
 
-.pr{
+.pr {
     color: grey;
 }
-.bs{
-    font:message-box;
+
+.bs {
+    font: message-box;
 }
 
-.hdb{
+.hdb {
     width: 120px;
 }
-.sp{
-    font-size:20px;
+
+.sp {
+    font-size: 20px;
 }
 
-.hl{
+.hl {
     margin-top: 100px;
     width: 1200px;
+}
+
+.wcd {
+    width: 18rem;
+    color: white;
+    background-color: rgba(63, 63, 63, 0.856);
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.wbd {
+    height: 170px;
+}
+
+.imgj {
+    margin: 30px;
+
+}
+
+.joincard {
+    max-width: 840px;
+    color: white;
+    background-color: rgba(63, 63, 63, 0.856);
+}
+.cdhead{
+    
 }

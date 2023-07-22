@@ -6,6 +6,9 @@ import Top from '../../component/top/Top'
 import Discover from '../../component/discover/Discover'
 import Browse from '../../component/browse/browse'
 import Highlight from '../../component/highlight/Highlight'
+import Work from '../../component/work/Work'
+import Join from '../../component/join/Join'
+
 
 export default function HomePage() {
     return (
@@ -17,6 +20,8 @@ export default function HomePage() {
             <Discover />
             <Browse/>
             <Highlight  />
+            <Work />
+            <Join/>
         </div>
     )
 }
