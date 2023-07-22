@@ -16,7 +16,7 @@ export default function Join() {
                             <div className="card-body imgj row cdh">
                                 <h1 className="card-title cdhead"><b>Join our weekly digest</b></h1>
                                 <p className="card-text">Get exclusive promotions & updates straight to your inbox.</p>
-                                <div class="form-floating col-lg-6 col-sm-12 trcard em">
+                                <div className="form-floating col-lg-6 col-sm-12 trcard em">
                                     <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
                                     <label htmlFor="floatingInput">Enter your email here</label>
                                 </div>

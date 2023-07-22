@@ -38,7 +38,7 @@ export default function Footer() {
                         <h3 className='fth'>Join our weekly digest</h3>
                         <h5 className='ftt mar'>Get exclusive promotions & updates straight to your inbox.</h5>
                         <div className='row'>
-                            <div class="form-floating col-lg-7 col-sm-12 trcard em">
+                            <div className="form-floating col-lg-7 col-sm-12 trcard em">
                                 <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
                                 <label htmlFor="floatingInput">Enter your email here</label>
                             </div>
