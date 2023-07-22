@@ -114,10 +114,7 @@
     font-size: 20px;
 }
 
-.hl {
-    margin-top: 100px;
-    width: 1200px;
-}
+
 
 .wcd {
     width: 18rem;
@@ -138,7 +135,7 @@
 }
 
 .joincard {
-    max-width: 990px;
+    max-width: 1020px;
    
     color: white;
     background-color: rgba(59,59,59,255);
@@ -150,4 +147,30 @@
 .bgc{
     background-color: rgba(43,43,43,255);
     
+}
+.jbt{
+    height: 55px;
+}
+.im{
+    width: 400px;
+    margin-top: 50px;
+}
+.ft{
+    background-color: rgba(59,59,59,255);;
+}
+.ftm{
+    margin-top: 50px;
+}
+.fth{
+   
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ftt{
+    color: rgba(204, 204, 204, 1);
+}
+.mar{
+    margin-top: 30px;
+}
+.logo{
+    margin-left: 10px;
 }
