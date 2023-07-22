@@ -13,7 +13,7 @@ export default function Header() {
                     <div className='col-lg-8 col-sm-12'>
                         <h1 className='hd' > Discover              Digital Art & Collect NFTs</h1>
                         <p className='phd'>NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.</p>
-                        <button type="button" class=" cdh btn btn-primary btn-lg bt"><img src={getimg} /> Get Started</button>
+                        <button type="button" className=" cdh btn btn-primary btn-lg bt"><img src={getimg} /> Get Started</button>
 
 
 

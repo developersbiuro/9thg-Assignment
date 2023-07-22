@@ -24,7 +24,7 @@ export default function Top() {
                     <h5 className='trhd'>Checkout Top Rated Creators on the NFT Marketplace</h5>
                 </div>
                 <div className='col-lg-4'>
-                    <button type="button" class="btn-lg btn btn-outline-primary topbt"><img src={img} /> View Rankings</button>
+                    <button type="button" className="btn-lg btn btn-outline-primary topbt"><img src={img} /> View Rankings</button>
                 </div>
 
             </div>

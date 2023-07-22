@@ -2,6 +2,12 @@
     color: white;
 
 }
+.navcss{
+    text-align: right;
+}
+
+
+
 
 .tr {
     margin-top: 100px;
@@ -21,13 +27,14 @@
     background-color: blueviolet;
     color: white;
     box-shadow: blueviolet;
+    border-color: blueviolet;
 
 }
 
 .hdcd {
     width: 22rem;
     color: white;
-    background-color: rgb(85, 85, 85);
+    background-color: rgba(59,59,59,255);
 
 }
 
@@ -74,7 +81,7 @@
 .tpcd {
     width: 14rem;
     margin-left: 30px;
-    background-color: rgb(63, 63, 63);
+    background-color: rgba(59,59,59,255);
     margin-top: 70px;
     color: white
 }
@@ -82,7 +89,7 @@
 .dscd {
     width: 20rem;
     color: white;
-    background-color: rgba(63, 63, 63, 0.856);
+    background-color: rgba(59,59,59,255);
     margin-top: 70px;
     margin-left: 30px;
 }
@@ -115,7 +122,7 @@
 .wcd {
     width: 18rem;
     color: white;
-    background-color: rgba(63, 63, 63, 0.856);
+    background-color: rgba(59,59,59,255);
     margin-top: 70px;
     margin-left: 30px;
 }
@@ -125,15 +132,22 @@
 }
 
 .imgj {
-    margin: 30px;
+    margin: 50px;
+    width: auto;
 
 }
 
 .joincard {
-    max-width: 840px;
+    max-width: 990px;
+   
     color: white;
-    background-color: rgba(63, 63, 63, 0.856);
+    background-color: rgba(59,59,59,255);
 }
-.cdhead{
+.em{
+    color: black;
+    
+}
+.bgc{
+    background-color: rgba(43,43,43,255);
     
 }
