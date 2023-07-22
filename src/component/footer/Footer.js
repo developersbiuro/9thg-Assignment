@@ -19,10 +19,10 @@ export default function Footer() {
                         <h3 className='fth'>  <img src={logo} /> NFT Marketplace</h3>
                         <h5 className='ftt mar'>NFT marketplace UI created with Anima for Figma.</h5>
                         <h5 className='ftt mar'>Join our community</h5>
-                        <a className='' href=''> <img src={logo1} /></a>
-                        <a className='logo' href=''> <img src={logo2} /></a>
-                        <a className='logo' href=''> <img src={logo3} /></a>
-                        <a className='logo' href='' target='blank'> <img src={logo4} /></a>
+                        <a className=''     href='https://wa.me/+923036253428' target='blank'> <img src={logo1} /></a>
+                        <a className='logo' href='https://wa.me/+923036253428' target='blank'> <img src={logo2} /></a>
+                        <a className='logo' href='https://wa.me/+923036253428' target='blank'> <img src={logo3} /></a>
+                        <a className='logo' href='https://wa.me/+923036253428' target='blank'> <img src={logo4} /></a>
 
 
                     </div>
@@ -37,16 +37,19 @@ export default function Footer() {
                     <div className='col-lg-5 col-sm-12 ftm'>
                         <h3 className='fth'>Join our weekly digest</h3>
                         <h5 className='ftt mar'>Get exclusive promotions & updates straight to your inbox.</h5>
-                        <div class="form-floating col-lg-5 col-sm-12 trcard em">
-                            <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
-                            <label htmlFor="floatingInput">Enter your email here</label>
-                        </div>
-                        <div className='col-lg-5 col-sm-12 trcard'>
-                            <button type="button" className="btn btn-primary btn-lg bt jbt"><img src={evimg} /> Subscribe</button>
+                        <div className='row'>
+                            <div class="form-floating col-lg-7 col-sm-12 trcard em">
+                                <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
+                                <label htmlFor="floatingInput">Enter your email here</label>
+                            </div>
+                            <div className='col-lg-5 col-sm-12 trcard'>
+                                <button type="button" className="btn btn-primary btn-lg bt jbt"><img src={evimg} /> Subscribe</button>
+                            </div>
                         </div>
 
                     </div>
-                    <img src={div} />
+                    <img className='mar' src={div} />
+                    <h5 className='ftt mar ftr '> Ⓒ Developers-Biuro. - - - - - - - - - - - - - - - - - - - - -  -     Made By: <a className='ftr' href='https://wa.me/+923036253428' target='blank'><b>Developers-Biuro</b></a></h5>
                 </div>
 
 

@@ -174,3 +174,7 @@
 .logo{
     margin-left: 10px;
 }
+.ftr{
+    font-family:'Courier New', Courier, monospace;
+    color:rgba(204, 204, 204, 1); 
+}
