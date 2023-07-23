@@ -9,7 +9,7 @@ import "./assets/css/style.css"
 
 function App() {
   return (
-    <div className="App appc  bgc"  >
+    <div className="App appc  bgc bgi"  >
       <HomePage />
     </div>
   );

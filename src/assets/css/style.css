@@ -2,7 +2,8 @@
     color: white;
 
 }
-.navcss{
+
+.navcss {
     text-align: right;
 }
 
@@ -34,7 +35,7 @@
 .hdcd {
     width: 22rem;
     color: white;
-    background-color: rgba(59,59,59,255);
+    background-color: rgba(59, 59, 59, 255);
 
 }
 
@@ -81,7 +82,7 @@
 .tpcd {
     width: 14rem;
     margin-left: 30px;
-    background-color: rgba(59,59,59,255);
+    background-color: rgba(59, 59, 59, 255);
     margin-top: 70px;
     color: white
 }
@@ -89,7 +90,7 @@
 .dscd {
     width: 20rem;
     color: white;
-    background-color: rgba(59,59,59,255);
+    background-color: rgba(59, 59, 59, 255);
     margin-top: 70px;
     margin-left: 30px;
 }
@@ -119,13 +120,17 @@
 .wcd {
     width: 18rem;
     color: white;
-    background-color: rgba(59,59,59,255);
+    background-color: rgba(59, 59, 59, 255);
     margin-top: 70px;
     margin-left: 30px;
 }
 
 .wbd {
     height: 170px;
+}
+
+.bgi {
+    background-image: url(../img/DEveloper\ biuro.png);
 }
 
 .imgj {
@@ -136,49 +141,65 @@
 
 .joincard {
     max-width: 1020px;
-   
+
     color: white;
-    background-color: rgba(59,59,59,255);
+    background-color: rgba(59, 59, 59, 255);
 }
-.em{
+
+.em {
     color: black;
-    
+
 }
-.bgc{
-    background-color: rgba(43,43,43,255);
-    
+
+.bgc {
+    background-color: rgba(43, 43, 43, 255);
+    background-image: url(../img/developers-biuro.png);
+    background-size: 1280px;
+
+
 }
-.jbt{
+
+.jbt {
     height: 55px;
 }
-.im{
+
+.im {
     width: 400px;
     margin-top: 50px;
 }
-.ft{
-    background-color: rgba(59,59,59,255);;
+
+.ft {
+    background-color: rgba(59, 59, 59, 255);
+    ;
 }
-.ftm{
+
+.ftm {
     margin-top: 50px;
 }
-.fth{
-   
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+.fth {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.ftt{
+
+.ftt {
     color: rgba(204, 204, 204, 1);
 }
-.mar{
+
+.mar {
     margin-top: 30px;
 }
-.logo{
+
+.logo {
     margin-left: 10px;
 }
-.ftr{
-    font-family:'Courier New', Courier, monospace;
-    color:rgba(204, 204, 204, 1); 
+
+.ftr {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(204, 204, 204, 1);
 }
-.navco{
+
+.navco {
     color: white;
     text-align: right;
     ;

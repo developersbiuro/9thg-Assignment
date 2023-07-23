@@ -3,14 +3,14 @@ import joinimg from "../../assets/img/join.png"
 import evimg from "../../assets/img/EnvelopeSimple.png"
 
 
-export default function Join() {
+export default function Join(props) {
     return (
         <center>
             <div className='container tr' >
                 <div className="card  joincard col-sm-12" >
                     <div className="row g-0">
                         <div className="col-lg-6 col-sm-8">
-                            <img src={joinimg} className="img-fluid rounded-start im" alt="..." />
+                            <img src={props.src} className="img-fluid rounded-start im" alt="..." />
                         </div>
                         <div className="col-md-6">
                             <div className="card-body imgj row cdh">
